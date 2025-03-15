@@ -1,0 +1,106 @@
+Text,Target,Category,Polarity
+bu servise bu fiyatlar ise cok faZla.,fiyatlar,RESTAURANT#PRICES,negative
+1 kere denedigim fiyatlarinin yüksek yemeklerinin lezzetsiz oldugu bir mekan önermiyorum.,fiyatlarinin,RESTAURANT#PRICES,negative
+2 sene önce hızlı bir kahvaltı yapmak için geldiğimiz mekana dair hatırımda kalan 6 tl lik çayı oldu:,çayı,DRINKS#PRICES,negative
+) menüde dikkat etmemiştik ama hesap gelince ufak bir şok yaşamıştık😩 güzel olabilir ama kahvaltıdan fazla ödediğimiz çay yüzünden bir daha uğramadık.,çay,DRINKS#PRICES,negative
+"ancak hesap biraz abartılı geliyor, balık yemeden kişi başı 100 liradan fazla ödedik, itiraz etmek gerekir.",hesap,FOOD#PRICES,negative
+"Yemek yemek için çok fazla vaktiniz yoksa, bütçeyi çok sarsmayalım, çok keyifli yemek yemesek de olur yeter ki karnımız doysun diye düşünenler için Çarşı'nın göbeğinde Sampi gayet ideal.",bütçeyi,RESTAURANT#PRICES,positive
+"4 sicak iceceklerde servis agir, kahvalti icin tercih edilwbilir olsa da lezzete gore fiyat yuksek kaliyor.",fiyat,FOOD#PRICES,negative
+"Fiyatlar normal, servis cok yavaş, tuvaletler ise pis.",Fiyatlar,RESTAURANT#PRICES,neutral
+Marmara ögrencilerine de indirimli fiyat uygulamasi var.,fiyat,RESTAURANT#PRICES,positive
+O yüzden de bizim için avantajli oluyor.,NULL,RESTAURANT#PRICES,positive
+Bu kadar ünlü olmasını reklama bağlıyorum çünkü çok daha iyi deniz ürünlerini daha uygun fiyatlarla yiyebileceğiniz bir sürü yer var İstanbul'da.,fiyatlarla,FOOD#PRICES,negative
+"60 çeşit çay, ruh dinlendirici müzikler, keyifli ortam, hayal kırıklığı yaratan Mizuno Pudding ve farklı da olsa alt tarafı çay içmiştim, bu hesap da ne şimdi dedirten bir hesap :",hesap,DRINKS#PRICES,negative
+"Hem çok keyif almıştım, hem de yok yok bir çay için bu kadar paraya değmez demiştim ve öve öve bitirilmeyen Mizuno Pudding'i beğenmemiştim.",paraya,DRINKS#PRICES,negative
+Yeşilköy şubesini bilemem ama burası standart üzerinde yine de o fiyatlar bence çok saçma.,fiyatlar,RESTAURANT#PRICES,negative
+"Bira dışında başka bir şey içmenizi istemeyen mekan, bira 7,8 lira iken votka 25, şarap 17.5...",votka,DRINKS#PRICES,negative
+"Bira dışında başka bir şey içmenizi istemeyen mekan, bira 7,8 lira iken votka 25, şarap 17.5...",şarap,DRINKS#PRICES,negative
+Fiyatları makul.,Fiyatları,RESTAURANT#PRICES,positive
+Bu et bu parayı asla hak etmiyor.,et,FOOD#PRICES,negative
+"İçeriden ve dışarıdan tamamen bir dağ evini andırmasıyla egzotik bir havaya sahip olan mekanda servis nispeten hızlı, fiyatlar pahalı değil, bahçesi güzel.",fiyatlar,RESTAURANT#PRICES,positive
+"Fiyatlar ise sunulan hizmet, kalite ve merkezi konumundan dolayi uygun sayilir.",Fiyatlar,RESTAURANT#PRICES,positive
+Manzara disinda deneyimlenecek bir yemegi yok gereksiz pahali ve verdiginiz paraya asla degmeyen menusu var aslinda yok cunku cesit yok.,NULL,RESTAURANT#PRICES,negative
+yukaridaki masaya ek olarak 3 bardak çay ve su dahil 42 tl ücret ödedik.,ücret,RESTAURANT#PRICES,neutral
+kahvalti tabagi 17.90 tl menemen 10 tl patates 8 tl.,patates,FOOD#PRICES,neutral
+kahvalti tabagi 17.90 tl menemen 10 tl patates 8 tl.,menemen,FOOD#PRICES,neutral
+kahvalti tabagi 17.90 tl menemen 10 tl patates 8 tl.,kahvalti tabagi,FOOD#PRICES,neutral
+Etine eyvallah fakat fiyat konusunda çok uçuklar.,fiyat,RESTAURANT#PRICES,negative
+Fiyatlar gerçekten bir tık üstte ama manzara gözümü her defasında kör ediyor ve görmezden gelebiliyorum.,Fiyatlar,RESTAURANT#PRICES,negative
+içecek çeşitliliği konusunda biraz yetersiz ancak fiyat olarak tartışmasız çevresine göre çok çok ucuz.,fiyat,RESTAURANT#PRICES,positive
+"Manzarasi ve dizayni guzel fakat garsonlar ilgisiz, porsiyonlar cok kucuk ve pahali.",NULL,RESTAURANT#PRICES,negative
+"Sufle 13,5 lira, çay 4,5 lira.","4,5 lira",DRINKS#PRICES,neutral
+"Sufle 13,5 lira, çay 4,5 lira.","13,5 lira",FOOD#PRICES,neutral
+Gençler ve ögrenciler için fiyatlari daha uygun tutmuslar.,fiyatlari,RESTAURANT#PRICES,positive
+Iftar menüsü 80 TL.,Iftar menüsü,FOOD#PRICES,neutral
+Genelde ürünler lezzetli ve fiyat da uygun .,fiyat,FOOD#PRICES,positive
+Hayatımın en pahalı yemeğini yediğim restoran.,yemeğini,FOOD#PRICES,negative
+Fiyat olarak gayet mantikli bir isletme.,Fiyat,RESTAURANT#PRICES,positive
+Tüm bu özelikleri göz önüne alınca fiyatlar çok makul geliyor.,fiyatlar,RESTAURANT#PRICES,positive
+fiyatlari 13-17 tl arasi porsiyonlari 1.5 olarak buyutmek de mumkun.,fiyatlari,FOOD#PRICES,neutral
+Eski kalitesinde olmasada hala iyi diyelim talep çok olunca ister istemez kalite ve servis vasata düşüyor etleri kenfi çiftliklerinden otopark sorun fiatlar normal,fiatlar,RESTAURANT#PRICES,neutral
+fiyatlar standart seviyede.,fiyatlar,RESTAURANT#PRICES,neutral
+Masaya istenen sucuklu yumurtanın sucuğuna extra ücret istenmesi ayıp.,ücret,FOOD#PRICES,negative
+"Böyle bir brunch için 59TL, 4 ince dilim sucuk için 5TL extra ücret mânâsız.",ücret,FOOD#PRICES,negative
+"Böyle bir brunch için 59TL, 4 ince dilim sucuk için 5TL extra ücret mânâsız.",brunch,FOOD#PRICES,negative
+Çünkü size oluru olmayan fiyatlar sunar.,fiyatlar,RESTAURANT#PRICES,negative
+İsim yapmıştır çünkü pahalı olduğu için kaliteli algısı yaratır .,NULL,RESTAURANT#PRICES,negative
+"Bir ayvalık tostuna 20 tl , bir kavanoz tatlıya 20 tl vs. Yazan bu mekana kesinlikle gitmem .",kavanoz tatlıya,FOOD#PRICES,negative
+"Bir ayvalık tostuna 20 tl , bir kavanoz tatlıya 20 tl vs. Yazan bu mekana kesinlikle gitmem .",ayvalık tostuna,FOOD#PRICES,negative
+Böyle mekanları biraz boş bırakmak lazım ki Fiyat skalasını biraz düşük aralığa taşısınlar !,Fiyat skalasını,RESTAURANT#PRICES,negative
+) yemekler güzel fiyatlar da mekana göre gayet uygun.,fiyatlar,RESTAURANT#PRICES,positive
+Fiyati da saka gibi.,Fiyati,FOOD#PRICES,neutral
+Mükellef bir yemek sonrasi ortalama 15-25 TL'ye mekandan çikabilirsiniz.,15-25 TL'ye,FOOD#PRICES,positive
+Kişi başı 60 liraya rakınız ve mezelerinizle güzel bir akşam geçirmeniz garanti.,Kişi başı,RESTAURANT#PRICES,positive
+40 tl kisi basi.,kisi basi,RESTAURANT#PRICES,neutral
+Fiyat biraz fazla gibi.,Fiyat,RESTAURANT#PRICES,negative
+sadece fiyatlar makul.,fiyatlar,RESTAURANT#PRICES,positive
+Fiyatlar yuksek ama verdiginiz paraya degiyo,Fiyatlar,RESTAURANT#PRICES,negative
+Fiyat/Performans olarak gidilebilecek mekanlardan birisi Uzunlar Kebap.,Fiyat,RESTAURANT#PRICES,positive
+Servis Süreleri biraz uzun birde bulunduğu mekana ve mekanın fiziksel kalitesine göre fiyatlar pahalı.,fiyatlar,RESTAURANT#PRICES,negative
+Daha mütevazı menu fiyatları olsa daha sık ziyaret edilebilir,menu fiyatları,RESTAURANT#PRICES,negative
+Sadece Türk kahvesi var ve bir sürü çay çeşidi tadlari belki güzeldir ama hem pahali hem gereksiz bir yer bence,yer,RESTAURANT#PRICES,negative
+Tek sorun siparisin çok geç gelmesi ve yemeklerin performans-fiyat birlikteliginin tutarli olmamasi,fiyat,FOOD#PRICES,negative
+"3 aydir haftasonlari ugrak noktamizdi, Kahvehane gibi maç ücreti 10 tl diye yazdilar yaa o gun bizim gozumuzde bitti.",maç ücreti,RESTAURANT#PRICES,negative
+Fethipaşa korusunun içinde bulunan manzarasına göre uygun fiyata sahip salaş şık aileye uygun bir mekan.,fiyata,RESTAURANT#PRICES,positive
+Böyle bir yerin tabi ki fiyatları Pahalı.,fiyatları,RESTAURANT#PRICES,negative
+Ev yemeklerini hakettiğinden pahalıya sattıklarını düşünüyorum.,Ev yemeklerini,FOOD#PRICES,negative
+Fiyatlar gayet uygun.,Fiyatlar,RESTAURANT#PRICES,positive
+Bayıldığım bir yer mekan çok hoş her mezeyi tatmak gerekli evet keşke fiyatlar daha insani boyutta olsa muhteşem olurdu ama ne yapayım o kadar keyif alıyorum ki verdiğimiz para can acıtmıyor sadece daha seyrek gitmemize sebep oluyor ortam yemekler ve müzik herşey harika,fiyatlar,RESTAURANT#PRICES,negative
+Hasan Kolcuoğlu çok pahalı diyemem ama hesap yüksek sayılır; ayrıca sözde açık ama aslında kapalı alanında sigara içiliyor.,hesap,RESTAURANT#PRICES,negative
+Fiyatlar ortalama meyhane fiyatlarının üzerinde.,Fiyatlar,RESTAURANT#PRICES,neutral
+fiyatlar asiri uçmus.,fiyatlar,RESTAURANT#PRICES,negative
+Fiyatlari gercekten pahali fakat kaliteli ve hos bir mekan ariyorsaniz kesinlikle tercih edilebilir.,Fiyatlari,RESTAURANT#PRICES,negative
+Esnaf lokantasi na göre fiyatları pahali ve kredi kartı geçmiyor.,fiyatları,RESTAURANT#PRICES,negative
+"Alkollü içki almadiginiz bir restda adam basi 80/90 tl hesap cookk fazla ,üstelik gayet az yedik .",80/90 tl hesap,RESTAURANT#PRICES,negative
+"Lezzet iyi ama fiyatla orantili degil ,Porsiyonlar az,personel iyi .",fiyatla,FOOD#PRICES,negative
+Böylesi bir mekan için fiyat ortalamanın üstünde kalmış.,fiyat,RESTAURANT#PRICES,negative
+Kahvaltisi bol cesitli doyurucu hatta genelde biteremiyosunuz fiyati biraz daha uygun olabilirdi calisanlar guler yuzlu ama bulundugu alan ve masalar daha genis olsa daha rahat oturup keyifle kahvaltimizi edebiliriz,fiyati,FOOD#PRICES,negative
+Fakat son iki gidişimde çok pahalanmış buldum.,pahalanmış,RESTAURANT#PRICES,negative
+Fiyatları gayet uygun olan yer bulmanın bir o kadar zor olduğu şirin bir dükkandan buralara kadar kısa bir sürede gelmiş bir mekanımızdır.,Fiyatları,RESTAURANT#PRICES,positive
+Fiyatlar da cok pahali degil ortalama duruyordu,Fiyatlar,RESTAURANT#PRICES,neutral
+Hesap gelene kadar tadimizda çok iyiydi.,Hesap,RESTAURANT#PRICES,negative
+342 TL çok fazla.,342 TL,RESTAURANT#PRICES,negative
+Bir paket çay alabildiğim ücrete daha iyi bir şey beklerdim.,ücrete,DRINKS#PRICES,negative
+"Fiyatlar yüksek ama gerçek boğazda balığın bedeli var, ambians ve konum dolayısı ile fiyatlara laf söylemek doğru değil.",Fiyatlar,RESTAURANT#PRICES,neutral
+Bu lezzetlere göre uygılanan fiyatlarda pahalı bence.,fiyatlarda,FOOD#PRICES,negative
+Manzara parası eklenmiş yiyeceklerin üzerine,Manzara parası,FOOD#PRICES,negative
+Oldukca da bol kepceden hizmet veriyorlar ve 5cesit zeytinyagli icin 13-14tl oduyorsunuz.,13-14tl,FOOD#PRICES,positive
+"Toplamda 4 salon ve bir kafeteryadan olusan tesiste uygun fiyat hizmet almak ve 4 ayri salonda dügün, nisan, okul yemegi, toplanti gibi organizasyonlar gerçeklestirmek mümkün.",fiyat,RESTAURANT#PRICES,positive
+Ayrica sacma sapan hesapta gelip sonrasinda bahsisle calisan valenin para diye tutturmasida cabasi.,hesapta,RESTAURANT#PRICES,negative
+"Birbirinin kopyası olan, standart kafe yemekleriyle müşteri kazıklamaya çalışan tipik yerlerden biri.",müşteri,RESTAURANT#PRICES,negative
+"Fiyat yüksek, kart geçmiyor...",Fiyat,RESTAURANT#PRICES,negative
+"Harika manzara, güzel lezzetler - Manzarasi ve yiyecekleri son derece güzel, her çesit yiyecek mevcut ve son derece lezzetli fiyatlari ise çok çok uygun.",fiyatlari,FOOD#PRICES,positive
+mekan emniyet mah cafe ve restorant olmak sartiyla iki bölümden olusuyor her ikisinide denedim gayet genel itibari ile güzel bir mekan kuzu bonfilesi güzeldi ilgi normaldi çok kalabalik bir mekan içecekler genel olarak güzeldi giriste mini sarküteride alisverise isik tutuyor güzeldi fiyatlar birazcik fazla,fiyatlar,RESTAURANT#PRICES,negative
+gerçekten bir özelligi olmayan çesidi bol konumu itibari ile talep gören çok sikisik havasiz normal bir mekan fiyatlar hayli yüksek süper bir özelligi olan bir yemegi varsa söyleyin arkadaslar,fiyatlar,RESTAURANT#PRICES,negative
+"Yenmeyecek kadar kötü kebaplari, ukala garsonu ve en lüks restoranda ödeyecegini alkollü yemek fiyatiyla karsilasirsiniz.",fiyatiyla,RESTAURANT#PRICES,negative
+Fena değil ama menemen için fiyat yüksek.,fiyat,FOOD#PRICES,negative
+Ayrıca bahsettiğim meşhur tatlı 21 tl,tatlı,FOOD#PRICES,neutral
+Fiyatlar gayet uygun.,Fiyatlar,RESTAURANT#PRICES,positive
+"Fiyatlar da gayet uygun, ortalamanın altında.",Fiyatlar,RESTAURANT#PRICES,positive
+"Lezzetli yemekler, rahat ortam ve uygun fiyatlar.",fiyatlar,RESTAURANT#PRICES,positive
+"Kuru fasulyenin lezzetine diyecek söz yok, fiyatlar da makul sayılır ancak mekan düğün salonundan bozma.",fiyatlar,RESTAURANT#PRICES,positive
+Fiyatlar orta ile yüksek arasi.,Fiyatlar,RESTAURANT#PRICES,negative
+3 gidip 2 kisilik getirin derseniz yiyecekler bu sekilde geliyor ama kisi basina 70tl yaziyorlar cok sacma olmus,yiyecekler,FOOD#PRICES,negative
+"(( Üstelik fiyatlarda, yemeklerine nazaran uygun degil.",fiyatlarda,FOOD#PRICES,negative
+Cok cesitli caylar var ancak fiyatlari biraz yuksek.,fiyatlari,DRINKS#PRICES,negative
+Fiyatlar ortalamanın biraz ustunde malesef.,Fiyatlar,RESTAURANT#PRICES,negative
